@@ -3,31 +3,33 @@
 
 ---
 
+<hr>
+<hr>
 <h1 id="school">School</h1>
 <h2 id="erdkunde">Erdkunde</h2>
 <h3 id="woche-1">Woche 1</h3>
 <h4 id="thema-konsum-versus-umwelt">Thema: Konsum versus Umwelt?</h4>
 <ol>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> S.119/2
+<li class="task-list-item"> S.119/2
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Gib im Internet die Seite <a href="https://www.verbraucherzentrale-bawue.de/">https://www.verbraucherzentrale-bawue.de/</a> ein und analysiere 3 ausgewählte Produkte deines Kühlschranks/ deiner Kosmetik-/ Duschartikel.</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Fasse einen Artikel zusammen, auf den du stößt (z.B. Magnesium im Sport – Krampf lass nach?)</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <a href="https://www.verbraucherzentrale-bawue.de/wissen/lebensmittel/nahrungsergaenzungsmittel/magnesium-beim-sport-krampf-lass-nach-13354">https://www.verbraucherzentrale-bawue.de/wissen/lebensmittel/nahrungsergaenzungsmittel/magnesium-beim-sport-krampf-lass-nach-13354</a></li>
+<li class="task-list-item"> Gib im Internet die Seite <a href="https://www.verbraucherzentrale-bawue.de/">https://www.verbraucherzentrale-bawue.de/</a> ein und analysiere 3 ausgewählte Produkte deines Kühlschranks/ deiner Kosmetik-/ Duschartikel.</li>
+<li class="task-list-item"> Fasse einen Artikel zusammen, auf den du stößt (z.B. Magnesium im Sport – Krampf lass nach?)</li>
+<li class="task-list-item"> <a href="https://www.verbraucherzentrale-bawue.de/wissen/lebensmittel/nahrungsergaenzungsmittel/magnesium-beim-sport-krampf-lass-nach-13354">https://www.verbraucherzentrale-bawue.de/wissen/lebensmittel/nahrungsergaenzungsmittel/magnesium-beim-sport-krampf-lass-nach-13354</a></li>
 </ul>
 </li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> S. 121/6 “Mögliche Auswirkungen des Konsumverhaltens auf die Umwelt”
+<li class="task-list-item"> S. 121/6 “Mögliche Auswirkungen des Konsumverhaltens auf die Umwelt”
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Mache dir erst selbst Gedanken über dieses Thema. Lies danach Text 8 (S. 120) und ergänze die fehlenden Informationen.</li>
+<li class="task-list-item"> Mache dir erst selbst Gedanken über dieses Thema. Lies danach Text 8 (S. 120) und ergänze die fehlenden Informationen.</li>
 </ul>
 </li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> S. 121/7 “Vergleich der Ökobilanz eines Flachbildschirms (Text 6, S. 120) mit einem anderen beliebigen technischen Produkt”
+<li class="task-list-item"> S. 121/7 “Vergleich der Ökobilanz eines Flachbildschirms (Text 6, S. 120) mit einem anderen beliebigen technischen Produkt”
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Für diese Aufgabe ist wieder Internetrecherche verlangt.</li>
+<li class="task-list-item"> Für diese Aufgabe ist wieder Internetrecherche verlangt.</li>
 </ul>
 </li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> S. 121/10 “Produkte und ihr Herkunftsraum”</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> S. 121/11 “Bewertung des Lebensstils der Globals”</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Erstelle eine grafische (Skizze) oder schriftliche Ausarbeitung (Text) vom umweltfreundlichsten Konsumenten der Welt! Lade deine Lösung ins Forum unserer Gruppe (als Foto/Scan/ Text).</li>
+<li class="task-list-item"> S. 121/10 “Produkte und ihr Herkunftsraum”</li>
+<li class="task-list-item"> S. 121/11 “Bewertung des Lebensstils der Globals”</li>
+<li class="task-list-item"> Erstelle eine grafische (Skizze) oder schriftliche Ausarbeitung (Text) vom umweltfreundlichsten Konsumenten der Welt! Lade deine Lösung ins Forum unserer Gruppe (als Foto/Scan/ Text).</li>
 </ol>
 <h4 id="ausblick-konsum-mal-anders...">Ausblick: Konsum mal anders…</h4>
 <p><img src="https://www.tagesschau.de/multimedia/bilder/corona-malaga-101~_v-videowebl.jpg" alt=""></p>
@@ -55,6 +57,3 @@
 <li>Aufgaben kommen glaub noch</li>
 </ul>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODg4MzQxMl19
--->
